@@ -1,16 +1,9 @@
-# JavaScript para Web: Crie páginas dinâmicas
+# Bem-vindos ao meu repositório!
 
 >Status: **Finalizado** ✔️
 
-## Bem-vindos ao meu repositório!
+##
 
 ### **Descrição:** 
 
-Foi desenvolvido o curso JavaScript para Web: Crie páginas dinâmicas, para a minha formação como Estagiária de Desenvolvimento na empresa SBM Technology.
-
-#### Elementos principais das páginas:
-
-- Tocar o som da tecla clicando com o mouse;
-- Tocar o som da tecla pressionando a tecla 'Space';
-- Tocar o som da tecla pressionando a tecla 'Enter';
-- Efeitos ao pressionar e/ou clicar em cima de uma tecla de som.
+Repositório criado para aplicação prática dos conceitos do curso "JavaScript para Web: Crie páginas dinâmicas" da linha de estudos "02-Frontend" do plano de estudos "Desenvolvedor Padawan".
